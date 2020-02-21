@@ -1,4 +1,4 @@
-# Projeto Web 1 <img src="img/bootstrap.png" width="160" height="40" align="right">
+# Projeto Web 1 <img src="logo/bootstrap.png" width="160" height="40" align="right">
 
 Este projeto surgiu como proposta avaliativa dos conhecimentos das linguagens HTML, Javascript, CSS e do framework Bootstrap, abordados na disciplina de 	Desenvolvimento de Sistemas Web 1 no IFPE campus Recife.
 
