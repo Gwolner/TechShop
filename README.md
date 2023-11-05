@@ -6,7 +6,6 @@ Este projeto surgiu como proposta avaliativa dos conhecimentos das linguagens HT
 
 Trata-se de um site simples que simula a venda de peças e quipamentos de computadores, onde cada produto é exibido dinamicamente em um card Bootstrap. Cada card contem uma imagem do produto, seu respectivo preço e um botão (representativo) para informações mais detalhadas do item.
 
-<img src="img/card.png" width="160" height="40" align="right">
+<!-- <img src="img/card.png" width="160" height="40" align="right">
 
-## Funcionalidade
-
+## Funcionalidade -->
